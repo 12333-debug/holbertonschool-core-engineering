@@ -5,6 +5,6 @@ Version = 3
 my_guess = 1==1
 
 print("Language:",Language)
-print("Version:",Version)
+print(f"Version: {Version}")
 print("Pi approx: %.2f"% Pi_approx)
 print("Computation valid:",my_guess)

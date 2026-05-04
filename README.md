@@ -1,0 +1,1 @@
+Create an executable file named structured_output.py that prints exactly:
